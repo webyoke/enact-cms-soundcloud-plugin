@@ -1,4 +1,4 @@
-#Code Plugin for Enact CMS
+#SoundCloud Plugin for Enact CMS
 Plugin for [Enact CMS](https://enactcms.com).
 
 Allows embedding [SoundCloud](https://soundcloud.com) tracks/playlists(sets)/users by providing a custom SoundCloud field
